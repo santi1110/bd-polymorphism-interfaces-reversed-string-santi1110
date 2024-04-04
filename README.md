@@ -7,7 +7,7 @@ Open `ReversedString` in the `src/com/amazon/ata/interfaces` package. In this tr
 interface found in the java.lang package. The constructor of `ReversedString` accepts a `String` which will
 be the sequence of characters that your class will provide access to in reverse order.
 
-When implementing the `CharSequnce` interface you should override the following three methods:
+When implementing the `CharSequnce` interface you should override the fo*llowing three method*s:
 - `charAt(int index)`
   - If we create a `ReversedString` with the value "cat", `charAt(0)` should return 't'.
 - `length()`
